@@ -6,6 +6,12 @@ const contributions = [
     department: "Software Engineering",
     favoriteTech: "TypeScript",
   },
+  {
+    name: "Saira",
+    image: "dummy.jpg",
+    department: "Software Engineering",
+    favoriteTech: "JavaScript",
+  },
 ];
 
 const contributionsContainer = document.getElementById("contributions");
