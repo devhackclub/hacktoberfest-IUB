@@ -1,10 +1,10 @@
 // Create an array to store contributions (dummy contribution)
 const contributions = [
   {
-    name: "Faeez",
-    image: "dummy.jpg",
-    department: "Software Engineering",
-    favoriteTech: "TypeScript",
+    name: "Muhammad Sharjeel Javed ",
+    image: "./image/sharjeel.jpeg",
+    department: "Artificial Intelligence",
+    favoriteTech: "Machine Learning",
   },
 ];
 
@@ -17,7 +17,7 @@ contributions.forEach((contribution) => {
   // Populate the card with contribution data
   const image = document.createElement("img");
   image.src = contribution.image;
-  image.alt = "Student Image";
+  image.alt = "./image/sharjeel.jpeg";
 
   const name = document.createElement("h2");
   name.textContent = contribution.name;
