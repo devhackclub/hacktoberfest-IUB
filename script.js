@@ -12,6 +12,12 @@ const contributions = [
     department: "Software Engineering",
     favoriteTech: "JavaScript",
   },
+  {
+    name: "Aiman Fayyaz",
+    image: null,
+    department: "Computer Science",
+    favoriteTech: "Python",
+  }
 ];
 
 const contributionsContainer = document.getElementById("contributions");
