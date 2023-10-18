@@ -7,6 +7,12 @@ const contributions = [
     favoriteTech: "TypeScript",
   },
   {
+    name: "Saira",
+    image: "dummy.jpg",
+    department: "Software Engineering",
+    favoriteTech: "JavaScript",
+  },
+  {
     name: "Aiman Fayyaz",
     image: null,
     department: "Computer Science",
