@@ -5,7 +5,7 @@ Welcome to the Student Contributions Repository! This is a place where students 
 ## How to Contribute
 
 1. Fork this repository.
-2. Add your profile details to the `contributions.json` file.
+2. Add your profile details to the `script.js` file.
 3. Create a pull request.
 
 ## Preview Your Contributions
