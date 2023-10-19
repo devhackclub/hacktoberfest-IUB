@@ -45,7 +45,3 @@ Get ready to showcase your skills, collaborate with peers, and make your mark in
 ## 📞 Need Help or Have Questions?
 
 If you encounter any issues or have questions about contributing, don't hesitate to reach out. We're here to assist you!
-
-[![Instagram - @zeshanmukhtar01](https://img.shields.io/badge/Instagram-%40zeshanmukhtar01-red)](https://www.instagram.com/zeshanmukhtar01/)
-
-Feel free to contact us on [Instagram](https://www.instagram.com/zeshanmukhtar01/) for any assistance, and we'll be happy to help. Let's make your open-source journey a great one!
