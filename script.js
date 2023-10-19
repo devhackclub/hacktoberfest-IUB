@@ -1,33 +1,32 @@
-// Create an array to store contributions from students (name, image, department, favorite technology) in the form of objects
+// Creating an array to store contributions from students (name, image filename, department, favorite technology) in the form of objects
 const contributions = [
-  // Add your contribution
   {
     name: 'Zeeshan Mukhtar',
-    image: 'zeeshan.png',
+    image: 'ZeeshanMukhtar1.jpg',
     department: 'Information Technology',
-    favoriteTech: 'MERN Stack ',
+    favoriteTech: 'MERN Stack',
   },
   {
     name: 'Faeez',
-    image: 'dummy.jpg',
+    image: 'mfaeezshabbir.jpg',
     department: 'Software Engineering',
     favoriteTech: 'TypeScript',
   },
   {
     name: 'Saira',
-    image: 'dummy.jpg',
+    image: 'saira.jpg',
     department: 'Software Engineering',
     favoriteTech: 'JavaScript',
   },
   {
     name: 'Aiman Fayyaz',
-    image: null,
+    image: 'aiman.jpg',
     department: 'Computer Science',
     favoriteTech: 'Python',
   },
   {
     name: 'Yash Ainapure',
-    image: null,
+    image: 'yash.jpg',
     department: 'Computer Science & Engineering',
     favoriteTech: 'JavaScript',
   },
@@ -42,9 +41,13 @@ contributions.forEach((contribution) => {
 
   // Populate the card with contribution data
 
-  // Adding  the student image
+  // Adding the student image
   const image = document.createElement('img');
-  image.src = contribution.image;
+  if (contribution.image) {
+    image.src = `./images/${contribution.image}`;
+  } else {
+    image.src = 'placeholder.jpg';
+  }
   image.alt = 'Student Image';
 
   // Displaying the student's name
