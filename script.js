@@ -17,6 +17,12 @@ const contributions = [
     image: null,
     department: "Computer Science",
     favoriteTech: "Python",
+  },
+  {
+    name: "Yash Ainapure",
+    image: null,
+    department: "Computer Science & Engineering",
+    favoriteTech: "Javascript",
   }
 ];
 
