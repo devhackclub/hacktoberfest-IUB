@@ -1,55 +1,70 @@
-// Create an array to store contributions (dummy contribution)
+// Create an array to store contributions from students (name, image, department, favorite technology) in the form of objects
 const contributions = [
+  // Add your contribution
   {
-    name: "Faeez",
-    image: "dummy.jpg",
-    department: "Software Engineering",
-    favoriteTech: "TypeScript",
+    name: 'Zeeshan Mukhtar',
+    image: 'zeeshan.png',
+    department: 'Information Technology',
+    favoriteTech: 'MERN Stack ',
   },
   {
-    name: "Saira",
-    image: "dummy.jpg",
-    department: "Software Engineering",
-    favoriteTech: "JavaScript",
+    name: 'Faeez',
+    image: 'dummy.jpg',
+    department: 'Software Engineering',
+    favoriteTech: 'TypeScript',
   },
   {
-    name: "Aiman Fayyaz",
+    name: 'Saira',
+    image: 'dummy.jpg',
+    department: 'Software Engineering',
+    favoriteTech: 'JavaScript',
+  },
+  {
+    name: 'Aiman Fayyaz',
     image: null,
-    department: "Computer Science",
-    favoriteTech: "Python",
+    department: 'Computer Science',
+    favoriteTech: 'Python',
   },
   {
-    name: "Yash Ainapure",
+    name: 'Yash Ainapure',
     image: null,
-    department: "Computer Science & Engineering",
-    favoriteTech: "Javascript",
-  }
+    department: 'Computer Science & Engineering',
+    favoriteTech: 'JavaScript',
+  },
 ];
 
-const contributionsContainer = document.getElementById("contributions");
+const contributionsContainer = document.getElementById('contributions');
 
+// Loop through each contribution and create a card for it
 contributions.forEach((contribution) => {
-  const card = document.createElement("div");
-  card.classList.add("card");
+  const card = document.createElement('div');
+  card.classList.add('card');
 
   // Populate the card with contribution data
-  const image = document.createElement("img");
-  image.src = contribution.image;
-  image.alt = "Student Image";
 
-  const name = document.createElement("h2");
+  // Adding  the student image
+  const image = document.createElement('img');
+  image.src = contribution.image;
+  image.alt = 'Student Image';
+
+  // Displaying the student's name
+  const name = document.createElement('h2');
   name.textContent = contribution.name;
 
-  const department = document.createElement("p");
+  // Displaying the student's department
+  const department = document.createElement('p');
   department.textContent = contribution.department;
 
-  const favoriteTech = document.createElement("p");
+  // Displaying the student's favorite technology
+  const favoriteTech = document.createElement('p');
   favoriteTech.textContent = `Favorite Language: ${contribution.favoriteTech}`;
 
+  // Adding the elements to the card
   card.appendChild(image);
   card.appendChild(name);
   card.appendChild(department);
   card.appendChild(favoriteTech);
 
+  // Adding the card to the contributions container
   contributionsContainer.appendChild(card);
 });
