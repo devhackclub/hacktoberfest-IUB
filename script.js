@@ -42,6 +42,13 @@ const contributions = [
     favoriteTech: "ReactJS",
     GitHubUsername: "yasir2002"
   },
+  {
+    name: "Muhammad Abuzar",
+    image: "Abuzar.JPG",
+    department: "Software Engineering",
+    favoriteTech: "MERN Stack + Python",
+    GitHubUsername: "Abuzariii"
+  }
 ];
 
 const contributionsContainer = document.getElementById("contributions");
