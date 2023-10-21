@@ -1,6 +1,6 @@
 # 🚀 Student Contributions Repository 🎓
 
-Welcome to the Student Contributions Repository! 🌟 This is the place where students from the prestigious Islamia University Bahawalpur come together to shine and showcase their profiles. Whether you're passionate about coding, designing, or anything tech-related, this repository is your canvas!
+Welcome to the Student Contributions Repository! 🌟 This is the place where students from the prestigious Islamia University of Bahawalpur come together to shine and showcase their profiles. Whether you're passionate about coding, designing, or anything tech-related, this repository is your canvas!
 
 ## 🎉 How to Contribute
 
@@ -12,7 +12,7 @@ Join the journey of making your mark in the open-source world. Here's how:
 
 ## 👀 Preview Your Contributions
 
-Want to see your name in lights? 🔦 Check out the [live demo](#) where you can view your profile alongside other talented students. It's your time to be in the spotlight!
+Want to see your name in lights? 🔦 Check out the [live demo]() where you can view your profile alongside other talented students. It's your time to be in the spotlight!
 
 ## 🎉 How to Contribute
 
@@ -28,7 +28,7 @@ Ready to make your contribution shine? Here's a step-by-step guide to get you st
 
 5. 🚀 **Create a Pull Request**: After making your changes, create a **pull request** to the main repository. Your contribution will now be part of our showcase!
 
-6. 👀 **Preview Your Profile**: Check out the [live demo](#) to see your profile alongside other talented students.
+6. 👀 **Preview Your Profile**: Check out the [live demo](https://devhackclub.github.io/hacktoberfest-IUB/) to see your profile alongside other talented students.
 
 Remember, adding your image is as simple as placing it in the "images" folder with your GitHub username as the filename. We can't wait to see your profile shining in our community! 🌟
 
