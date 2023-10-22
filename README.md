@@ -7,16 +7,16 @@ Welcome to the Student Contributions Repository! 🌟 This is the place where st
 Join the journey of making your mark in the open-source world. Here's how:
 
 1. 🍴 **Fork** this repository.
-2. 💥 Add your profile details to the `script.js` file.
+2. 💥 Add your profile and  details to the `script.js` file.
 3. 🚀 Create a **pull request** and let your contribution shine!
 
 ## 👀 Preview Your Contributions
 
-Want to see your name in lights? 🔦 Check out the [live demo]() where you can view your profile alongside other talented students. It's your time to be in the spotlight!
+Want to see your name in lights? 🔦 Check out the [live demo](https://devhackclub.github.io/hacktoberfest-IUB/) where you can view your profile alongside other talented students. It's your time to be in the spotlight!
 
 ## 🎉 How to Contribute
 
-Ready to make your contribution shine? Here's a step-by-step guide to get you started:
+Ready to make your contributions shine? Here's a step-by-step guide to get you started:
 
 1. 🍴 **Fork** this repository to create your copy.
 
@@ -34,7 +34,7 @@ Remember, adding your image is as simple as placing it in the "images" folder wi
 
 ## 🤝 Code of Conduct
 
-We're a friendly bunch! Before you start contributing, please take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md). It ensures a respectful and welcoming atmosphere for all.
+We're a friendly bunch! Before making a contribution, please take a moment to read our [Code of Conduct](CODE_OF_CONDUCT.md). It ensures a respectful and welcoming atmosphere for all.
 
 ## 🔒 Privacy Policy
 
@@ -44,4 +44,4 @@ Get ready to showcase your skills, collaborate with peers, and make your mark in
 
 ## 📞 Need Help or Have Questions?
 
-If you encounter any issues or have questions about contributing, don't hesitate to reach out. We're here to assist you!
+If you encounter any issues or questions about contributions, don't hesitate to reach out. We're here to assist you 👋 !
