@@ -7,6 +7,13 @@ const contributions = [
     favoriteTech: "MERN Stack",
     GitHubUsername: "ZeeshanMukhtar1",
   },
+   {
+    name: "Amna Idrees",
+    image: "amna-idrees.jpg",
+    department: "Information Technology",
+    favoriteTech: "Python + Java + Design",
+    GitHubUsername: "amna-idrees",
+  },
   {
     name: "Faeez",
     image: "mfaeezshabbir.jpg",
